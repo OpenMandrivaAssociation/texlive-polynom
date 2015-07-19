@@ -6,7 +6,7 @@
 # catalog-version 0.17
 Name:		texlive-polynom
 Version:	0.17
-Release:	9
+Release:	10
 Summary:	Macros for manipulating polynomials
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/polynom
