@@ -1,6 +1,6 @@
 Name:		texlive-polynom
 Version:	44832
-Release:	1
+Release:	2
 Summary:	Macros for manipulating polynomials
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/polynom
