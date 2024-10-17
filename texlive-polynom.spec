@@ -3,7 +3,7 @@ Version:	44832
 Release:	2
 Summary:	Macros for manipulating polynomials
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/polynom
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/polynom
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/polynom.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/polynom.doc.r%{version}.tar.xz
